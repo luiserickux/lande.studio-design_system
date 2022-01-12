@@ -1,0 +1,11 @@
+%transition-fast {
+    transition: all 150ms ease;
+}
+
+%transition-normal {
+    transition: all 300ms ease;
+}
+
+%transition-slow {
+    transition: all 450ms ease;
+}
